@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brendan1107
-- 🌱 I’m currently persuing my studies University of Malaya
+- 🌱 I’m currently persuing my studies at University of Malaya
 - 📫 How to reach me via my email : cheng0711jun@gmail.com
 - 😄 Pronouns: Hehim
 - ⚡ Fun fact: I am only 4 weeks into coding! Spent most of my time on Java just for now.
