@@ -2,7 +2,7 @@
 - 🌱 I’m currently persuing my studies at University of Malaya
 - 📫 How to reach me via my email : cheng0711jun@gmail.com 
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am only 2 months into coding! Spent most of my time of Java.
+- ⚡ Fun fact: I am only 2 months into coding! Spent most of my time on Java.
 - 📱 Follow me on Instagram! : @brendan1107
 - 03-Dec-24
 
